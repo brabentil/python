@@ -40,6 +40,7 @@ For example, to run the `Factorial` algorithm:
 ```sh
 cd integers/Factorial
 python main.py
+```
 
 ## Prerequisites
 
