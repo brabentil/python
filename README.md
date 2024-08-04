@@ -30,6 +30,8 @@ The `strings` folder contains the following subfolders, each representing a diff
 - `DuplicateCharacterCount`: Code to find duplicate characters in a string.
 - `Reverse String`: Code to reverse an entire string.
 - `ReverseEachWord`: Code to reverse each word in a string.
+- `OccurrenceOfEach`: Code to find the number of occurences of each character in a string.
+
 
 ## How to Run
 
